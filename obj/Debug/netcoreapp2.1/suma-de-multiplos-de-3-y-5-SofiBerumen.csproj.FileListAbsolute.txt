@@ -1,0 +1,11 @@
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.deps.json
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.runtimeconfig.json
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.runtimeconfig.dev.json
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.dll
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.pdb
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.csprojAssemblyReference.cache
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.csproj.CoreCompileInputs.cache
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.AssemblyInfoInputs.cache
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.AssemblyInfo.cs
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.dll
+C:\Users\Sofi\CursoNet\suma-de-multiplos-de-3-y-5-SofiBerumen\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-SofiBerumen.pdb
